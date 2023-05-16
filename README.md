@@ -23,7 +23,15 @@ public class Main {
 ```
 
 10er System 1,2,3,4,5,...
+
+
 2er System - Dual/Binär 010101
+
+
 Oktal 
+
+
 Hexadezimal 1,2,3,D,E,F,...
+
+
 
