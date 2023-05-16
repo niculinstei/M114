@@ -34,4 +34,9 @@ Oktal
 Hexadezimal 1,2,3,D,E,F,...
 
 
+#### Aufgaben
+2.
+
+911 ist in binär 56 rest 111001111
+
 
