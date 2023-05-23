@@ -63,6 +63,10 @@ Hexadezimal 1,2,3,D,E,F,...
 Lösung 101001110
 
 ## Tag-2
+Mit dem 2er Komplement kann man Ganze Zahlen in Binär zu ihrem Negativem Counterpart darstellen. Es besteht aus 2 Schritten.
 
+Beispiel mit Nummer 2
+1. Zahl negieren (in Binär 1 zu 0 und 0 zu 1) -> 2 = 0010 => 1101
+2. Plus 1 -> 1101 + 0001 => <u> 1110 = -2
 
 
