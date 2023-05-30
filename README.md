@@ -2,6 +2,8 @@
 
 - [Tag-1](#Tag-1)
 - [Tag-2](#Tag-2)
+- [Tag-3](#Tag-3)
+
 
  
 ---------
@@ -68,5 +70,14 @@ Mit dem 2er Komplement kann man Ganze Zahlen in Binär zu ihrem Negativem Counte
 Beispiel mit Nummer 2
 1. Zahl negieren (in Binär 1 zu 0 und 0 zu 1) -> 2 = 0010 => 1101
 2. Plus 1 -> 1101 + 0001 => <u> 1110 = -2
+ 
+ ## Tag-3
+ Bildcodierung
+ 
+- Elektromagnetische Wellen werden mit der Wellenlänge oder der Frequenz angegeben.
+- Licht besteht aus elektromagnetischen Wellen.
+- Nur ein Teil der Frequenzen des Lichts sind für das menschliche Auge sichtbar.
+ 
+ Farben können in verschiedenen codeformaten dargestellt werden(bsp: HEX: weiss = #ffffff)
 
 
