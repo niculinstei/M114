@@ -79,5 +79,10 @@ Beispiel mit Nummer 2
 - Nur ein Teil der Frequenzen des Lichts sind für das menschliche Auge sichtbar.
  
  Farben können in verschiedenen codeformaten dargestellt werden(bsp: HEX: weiss = #ffffff)
+ 
+ Es gibt verschiedene Farbkanäle, die einen können nur schwarz und weiss darstellen, andere können natürlich auch farbig.
+ 
+ dpi = Dots per Inch
+ ppi = Pixel per Inch --> gut zu wissen beim kaufen eines Bildschirmes.
 
 
