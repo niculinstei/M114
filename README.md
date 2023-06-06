@@ -3,6 +3,7 @@
 - [Tag-1](#Tag-1)
 - [Tag-2](#Tag-2)
 - [Tag-3](#Tag-3)
+- [Tag-4](#Tag-4)
 
 
  
@@ -84,5 +85,30 @@ Beispiel mit Nummer 2
  
  dpi = Dots per Inch
  ppi = Pixel per Inch --> gut zu wissen beim kaufen eines Bildschirmes.
+ 
+ ## Tag-4
+ Bestimmung der Farben für die RGB-Farbcodes:
+
+    - #FF0000 entspricht der Farbe Rot.
+    - #00FF00 entspricht der Farbe Grün.
+    - #0000FF entspricht der Farbe Blau.
+    - #FFFF00 entspricht der Farbe Gelb.
+    - #00FFFF entspricht der Farbe Cyan.
+    - #FF00FF entspricht der Farbe Magenta.
+    - #000000 entspricht der Farbe Schwarz.
+    - #FFFFFF entspricht der Farbe Weiß.
+    - #00BC00 entspricht einer Farbnuance von Grün.
+
+Bestimmung der Farben für die prozentualen CMYK-Angaben:
+
+    - C:0%, M:100%, Y:100%, K:0% entspricht der Farbe Cyan.
+    - C:100%, M:0%, Y:100%, K:0% entspricht der Farbe Gelb.
+    - C:100%, M:100%, Y:0%, K:0% entspricht der Farbe Magenta.
+    - C:0%, M:0%, Y:100%, K:0% entspricht der Farbe Blau.
+    - C:100%, M:0%, Y:0%, K:0% entspricht der Farbe Rot.
+    - C:0%, M:100%, Y:0%, K:0% entspricht der Farbe Grün.
+    - C:100%, M:100%, Y:100%, K:0% entspricht der Farbe Weiß.
+    - C:0%, M:0%, Y:0%, K:100% entspricht der Farbe Schwarz.
+ 
 
 
