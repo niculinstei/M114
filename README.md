@@ -113,6 +113,7 @@ Bestimmung der Farben für die prozentualen CMYK-Angaben:
     - C:0%, M:0%, Y:0%, K:100% entspricht der Farbe Schwarz.
 
 
- ### Tag-5
+ # Tag-5
 
-
+2. Stellt ein A dar.
+3. 
