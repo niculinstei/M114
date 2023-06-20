@@ -120,7 +120,3 @@ Bestimmung der Farben für die prozentualen CMYK-Angaben:
 ![grafik](https://github.com/niculinstei/M114/assets/91120707/3cc06017-6a15-4d12-808d-7feb55d158fd)
 
 # Tag-6
-
-
-2. Stellt ein A dar.
-3. 
