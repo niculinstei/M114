@@ -5,6 +5,8 @@
 - [Tag-3](#Tag-3)
 - [Tag-4](#Tag-4)
 - [Tag-5](#Tag-5)
+- [Tag-6](#Tag-6)
+
 
 
 
@@ -116,6 +118,8 @@ Bestimmung der Farben für die prozentualen CMYK-Angaben:
  # Tag-5
 
 ![grafik](https://github.com/niculinstei/M114/assets/91120707/3cc06017-6a15-4d12-808d-7feb55d158fd)
+
+# Tag-6
 
 
 2. Stellt ein A dar.
