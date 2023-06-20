@@ -120,3 +120,16 @@ Bestimmung der Farben für die prozentualen CMYK-Angaben:
 ![grafik](https://github.com/niculinstei/M114/assets/91120707/3cc06017-6a15-4d12-808d-7feb55d158fd)
 
 # Tag-6
+Es gibt verschiedene Verfahren, um den Datenspeicher und die Auslastung des Übertragungskanals für Bilder und Bewegtbilder zu reduzieren. Hier sind einige einfache Beispiele:
+
+1. Komprimierung: Durch Komprimierung können die Dateigrößen von Bildern und Filmen verringert werden. Beispielsweise können Dateien im JPEG-Format komprimiert werden, um Speicherplatz zu sparen. Dabei werden weniger wichtige Details entfernt, um Platz zu sparen, was zu einer geringeren Bildqualität führen kann.
+
+2. Auflösungsreduktion: Eine weitere Möglichkeit besteht darin, die Auflösung von Bildern oder Filmen zu verringern. Wenn beispielsweise ein hochauflösendes Bild auf eine geringere Auflösung skaliert wird, werden weniger Daten benötigt, um das Bild darzustellen. Dies kann jedoch zu einem Verlust an Bildschärfe und Details führen.
+
+3. Verlustlose Komprimierung: Bei der verlustlosen Komprimierung werden Techniken verwendet, um die Dateigröße zu reduzieren, ohne dabei Informationen zu verlieren. Dies geschieht oft durch die Entfernung von Redundanzen in den Daten. Ein Beispiel für ein verlustloses Kompressionsverfahren ist das ZIP-Format.
+
+4. Video-Streaming: Beim Streaming von Filmen werden die Daten in Echtzeit übertragen und nicht auf dem Gerät gespeichert. Dies ermöglicht eine sofortige Wiedergabe, ohne dass die gesamte Datei heruntergeladen werden muss. Die Datenübertragung kann an die verfügbare Internetgeschwindigkeit angepasst werden, um eine moderatere Auslastung des Übertragungskanals zu erreichen.
+
+5. Farbunterabtastung: Eine Methode zur Reduzierung des Datenvolumens von Bildern besteht darin, die Farbunterabtastung zu verwenden. Anstatt jede Farbe genau zu erfassen, können Farbinformationen zusammengefasst werden, um den Speicherbedarf zu verringern. Dies kann zu einem Verlust an Farbgenauigkeit führen.
+
+Diese Verfahren dienen als einfache Beispiele und es gibt noch viele weitere fortgeschrittenere Techniken, um die Datenspeicherung und Übertragungseffizienz von Bildern und Bewegtbildern zu verbessern.
