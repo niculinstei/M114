@@ -6,6 +6,8 @@
 - [Tag-4](#Tag-4)
 - [Tag-5](#Tag-5)
 - [Tag-6](#Tag-6)
+- [Tag-7](#Tag-7)
+
 
 
 
@@ -133,3 +135,6 @@ Es gibt verschiedene Verfahren, um den Datenspeicher und die Auslastung des Übe
 5. Farbunterabtastung: Eine Methode zur Reduzierung des Datenvolumens von Bildern besteht darin, die Farbunterabtastung zu verwenden. Anstatt jede Farbe genau zu erfassen, können Farbinformationen zusammengefasst werden, um den Speicherbedarf zu verringern. Dies kann zu einem Verlust an Farbgenauigkeit führen.
 
 Diese Verfahren dienen als einfache Beispiele und es gibt noch viele weitere fortgeschrittenere Techniken, um die Datenspeicherung und Übertragungseffizienz von Bildern und Bewegtbildern zu verbessern.
+
+# Tag-7
+
